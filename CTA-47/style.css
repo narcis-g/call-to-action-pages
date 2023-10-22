@@ -36,7 +36,7 @@
 }
 
 
-@media(max-width: 500px) {
+@media(max-width: 1115px) {
 
   .layout {
     flex-direction: column;
